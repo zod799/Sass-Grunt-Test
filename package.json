@@ -1,0 +1,23 @@
+{
+  "name": "Sass-Grunt-Test",
+  "version": "1.0.0",
+  "description": "Testing Sass and Grunt capabilities",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zod799/Sass-Grunt-Test.git"
+  },
+  "author": "Gerard Gust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zod799/Sass-Grunt-Test/issues"
+  },
+  "homepage": "https://github.com/zod799/Sass-Grunt-Test",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.8.1"
+  }
+}

@@ -1,0 +1,26 @@
+// Sass Variables
+// ==============
+$mainColor: #900;
+$hoverColor: #d11;
+
+// Main CSS
+// ==============
+section {
+	background-color: #ccc;
+	h1 {
+		color: $mainColor;
+	}
+	a {
+		color: $mainColor;
+		&:hover{
+			color:$hoverColor;
+		}
+	}
+	p {
+		margin: 5px 0;
+		padding: 0 10px;
+		span{
+			color: $mainColor;
+		}
+	}
+}
